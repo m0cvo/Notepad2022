@@ -17,7 +17,7 @@
                 <Paragraph FontSize="12.6666666666667" FontFamily="Consolas" Margin="0"/>
                 <Paragraph FontSize="12.6666666666667" FontFamily="Consolas" Margin="0">
                     <Span Foreground="Black">
-                        <Run Text="Copyright (c) N.Booth, 2019 for Mogpie."/>
+                        <Run Text="Copyright (c) N.Booth, 2022 for Mogpie."/>
                     </Span>
                 </Paragraph>
                 <Paragraph FontSize="12.6666666666667" FontFamily="Consolas" Margin="0"/>

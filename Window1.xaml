@@ -9,7 +9,7 @@
     <Grid Background="#FFF1F0DD">
         <Button x:Name="ExitBtn" Content="Exit" HorizontalAlignment="Left" Margin="10,739,0,0" VerticalAlignment="Top" Width="75" Click="ExitBtn_Click"/>
         <Menu HorizontalAlignment="Left" Height="80" Margin="10,10,0,0" VerticalAlignment="Top" Width="1172" Background="#FFDABCBC">
-            <ListBox x:Name="FileBox" Height="70" Width="100" SelectionChanged="FileBox_SelectionChanged">
+            <ListBox x:Name="FileBox" Height="70" Width="100">
                 <ListBoxItem x:Name="NewClick" Content="New" Selected="NewClick_Selected"/>
                 <ListBoxItem x:Name="openTxt" Content="Open" Selected="ListBoxItem_Selected"/>
                 <ListBoxItem x:Name="SaveTxt" Content="Save as" Selected="SaveTxt_Selected"/>

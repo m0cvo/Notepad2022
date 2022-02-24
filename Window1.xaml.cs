@@ -30,13 +30,7 @@ namespace Notepad2022
         {
             MessageBox.Show("Goodbye");
             Application.Current.Shutdown();
-        }
-
-        private void FileBox_SelectionChanged(object sender, SelectionChangedEventArgs e)
-        {
-            /// ToDo
-        }
-
+        }       
         private void NewClick_Selected(object sender, RoutedEventArgs e)
         {
             UserTxt.Clear();
