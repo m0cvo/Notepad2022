@@ -10,7 +10,7 @@
         <Grid.Background>
             <ImageBrush ImageSource="/Notepad2022_Splash.jpg"/>
         </Grid.Background>
-        <Button x:Name="ExitBtn" Content="Exit" HorizontalAlignment="Left" Margin="687,374,0,0" VerticalAlignment="Top" Width="75" Click="ExitBtn_Click"/>
-        <Button x:Name="StartBtn" Content="Start" HorizontalAlignment="Left" Margin="27,374,0,0" VerticalAlignment="Top" Width="75" Click="StartBtn_Click"/>
+        <Button x:Name="ExitBtn" Content="Exit" HorizontalAlignment="Left" Margin="636,325,0,0" VerticalAlignment="Top" Width="75" Click="ExitBtn_Click"/>
+        <Button x:Name="StartBtn" Content="Start" HorizontalAlignment="Left" Margin="53,325,0,0" VerticalAlignment="Top" Width="75" Click="StartBtn_Click"/>
     </Grid>
 </Window>
