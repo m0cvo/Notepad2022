@@ -66,7 +66,7 @@ namespace Notepad2022
 
         private void AboutList_Selected(object sender, RoutedEventArgs e)
         {
-            MessageBox.Show("EasyNote text editor Copyright Nigel Booth, M0CVO, for Mogpie, 2019");
+            MessageBox.Show("Notepad2022 text editor Copyright Nigel Booth, M0CVO, for Mogpie, 2022");
         }
 
         private void HelpList_Selected(object sender, RoutedEventArgs e)

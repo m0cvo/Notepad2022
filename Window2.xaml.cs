@@ -23,5 +23,10 @@ namespace Notepad2022
         {
             InitializeComponent();
         }
+
+        private void CloseBtn_Click(object sender, RoutedEventArgs e)
+        {
+            this.Hide();
+        }
     }
 }

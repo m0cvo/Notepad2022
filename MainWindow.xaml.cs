@@ -24,5 +24,25 @@ namespace Notepad2022
         {
             InitializeComponent();
         }
+
+        private void ExitBtn_Click(object sender, RoutedEventArgs e)
+        {
+            Exit();
+        }
+
+        private void Exit()
+        {
+            //Shows goodbye message in MessageBox and then closes application.
+            MessageBox.Show("Goodbye");
+            Application.Current.Shutdown();
+        }
+
+        private void StartBtn_Click(object sender, RoutedEventArgs e)
+        {
+            //Opens new window for user to work on.
+            Window1 WorkWindow = new Window1();
+            WorkWindow.Show();
+            this.Hide();
+        }
     }
 }
