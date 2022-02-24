@@ -1,0 +1,15 @@
+NotepaD2022 text editor
+
+Copyright (c) N.Booth, 2022 for Mogpie.
+
+This is a simple text editor, whether you are writing reminders, notelets, software (C++, C#, VB) or keeping records this is the ideal tool.
+
+On the menu:
+
+<<New>>  will clear the form for a new file to be started.  If you have any previous work open ensure you save it first otherwise it will be erased and lost.
+
+<<Open>> will open a dialog for you to choose a file from your PC and open it for editing.
+
+<<Save as>> will likewise open a dialog for you to save the file you have been working on to your hard drive or storage media.  This will overwright any previous copy of the file.
+
+<<Exit>> Closes the program and clears the cache.  Ensure you have saved any work first.
